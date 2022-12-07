@@ -37,3 +37,5 @@ Git- это круто
     git log   
     git log --oneline  (коротким списком)   
     git log --oneline --all   все комиты коротким списком
+
+# **_семинар2_**
